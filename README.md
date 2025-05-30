@@ -1,1 +1,80 @@
-# shivanshtandonwork
+<h1 align="center">Hey 👋 I'm Shivansh Tandon</h1>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | DSA in Java</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+Java;Open+to+new+opportunities&center=true&width=500&height=30">
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 💼 Ex-Junior Associate at **DHL IT Services**
+- 📍 Based in **India**, open to **relocation** or **remote work**
+- 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (Java)** skills
+- 🌱 Currently upgrading my **System Design** and **backend architecture** knowledge
+- 🧰 Tech Playground: MERN Stack, Java, REST APIs, Git, Postman, Firebase
+
+---
+
+### 🚀 Tech Stack
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+**Programming:**
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+**Tools:**
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+
+---
+
+### 🧠 Currently Focused On
+- 📘 Mastering DSA in **Java** (arrays, linked lists, trees, graphs, DP)
+- 🏗 Building scalable MERN projects with auth, payment, and dashboard features
+- 📊 Practicing coding daily on LeetCode / GFG
+
+---
+
+### 📌 Featured Projects
+<a href="https://github.com/your-username/project-1">
+  🧾 <b>MyPortfolio</b> – Full-stack dev portfolio built with React + Node
+</a><br>
+<a href="https://github.com/your-username/project-2">
+  📊 <b>Expense Tracker</b> – MERN app to manage personal finance with JWT auth
+</a><br>
+<a href="https://github.com/your-username/project-3">
+  🧠 <b>DSA Practice</b> – Java-based clean DSA solutions with explanations
+</a>
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark" width="49%" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat" alt="your-username" />
+</p>
