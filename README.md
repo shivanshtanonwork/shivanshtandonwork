@@ -67,8 +67,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshtanonwork&theme=github-dark" width="48%" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
