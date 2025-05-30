@@ -48,8 +48,8 @@
 ---
 
 ### 📌 Featured Projects
-<a href="https://github.com/your-username/project-1">
-  🧾 <b>MyPortfolio</b> – Full-stack dev portfolio built with React + Node
+<a href="https://github.com/shivanshtanonwork/Wanderlust">
+  🧾 <b>Wanderlust</b> – Full-stack travel app
 </a><br>
 <a href="https://github.com/your-username/project-2">
   📊 <b>Expense Tracker</b> – MERN app to manage personal finance with JWT auth
