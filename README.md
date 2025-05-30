@@ -61,15 +61,15 @@
 ---
 
 ### 📈 GitHub Analytics
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivanshtanonwork&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshtanonwork&theme=github-dark" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanshtanonwork&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
