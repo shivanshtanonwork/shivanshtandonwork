@@ -12,7 +12,7 @@
 - 📍 Based in **India**, open to **relocation** or **remote work**
 - 🔁 Career restart after a 1-year gap, actively sharpening my **Data Structures & Algorithms (Java)** skills
 - 🌱 Currently upgrading my **Full-stack web development** and focusing on performance, security, and scalable architectures.
-- 🧰 Tech Playground: MERN Stack, Java, REST APIs, Git, Postman, Firebase
+- 🧰 Tech Playground: MERN Stack, Java, REST APIs, Git, HTML, CSS
 
 ---
 
