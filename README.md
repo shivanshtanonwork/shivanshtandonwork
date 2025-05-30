@@ -43,7 +43,7 @@
 ### 🧠 Currently Focused On
 - 📘 Mastering DSA in **Java** (arrays, linked lists, trees, graphs, DP)
 - 🏗 Building scalable MERN projects with auth, payment, and dashboard features
-- 📊 Practicing coding daily on LeetCode / GFG
+- 📊 Practicing and Learning Daily about Web Dev and DSA.
 
 ---
 
