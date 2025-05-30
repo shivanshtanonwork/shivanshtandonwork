@@ -67,8 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshtanonwork&theme=github-dark" width="48%" />
 </p>
 
-# My GitHub Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark)
 
 
