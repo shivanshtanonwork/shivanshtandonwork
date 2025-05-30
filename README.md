@@ -86,5 +86,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanshtandonwork&label=Profile+Views&color=blue&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=shivanshtanonwork&label=Profile+Views&color=blue&style=flat" alt="shivanshtanonwork" />
 </p>
