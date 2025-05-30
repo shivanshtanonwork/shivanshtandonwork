@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark" width="40%" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=github_dark)
 </p>
 
 <p align="center">
