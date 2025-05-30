@@ -71,9 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtanonwork&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanshtanonwork&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 
 ---
