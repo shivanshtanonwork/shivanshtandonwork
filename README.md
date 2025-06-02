@@ -51,8 +51,8 @@
 <a href="https://github.com/shivanshtanonwork/Wanderlust">
   🧾 <b>Wanderlust</b> – Full-stack travel app
 </a><br>
-<a href="https://github.com/your-username/project-2">
-  📊 <b>Expense Tracker</b> – MERN app to manage personal finance with JWT auth
+<a href="https://github.com/shivanshtanonwork/TODOAPP-REDUX">
+  📊 <b>Todo-App</b> – Made in React & Redux
 </a><br>
 <a href="https://github.com/your-username/project-3">
   🧠 <b>DSA Practice</b> – Java-based clean DSA solutions with explanations
