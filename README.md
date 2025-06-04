@@ -48,7 +48,7 @@
 ---
 
 ### 📌 Featured Projects
-<a href="https://github.com/shivanshtanonwork/Wanderlust">
+<a href="https://wanderlust-q8mx.onrender.com/listings">
   🧾 <b>Wanderlust</b> – Full-stack travel app
 </a><br>
 <a href="https://github.com/shivanshtanonwork/TODOAPP-REDUX">
