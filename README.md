@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Shivansh Tandon</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast | DSA in Java</h3>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | Code, Render, Repeat – A React Dev's Journey</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+end-to-end+web+apps;Leveling+up+DSA+in+Java;Open+to+new+opportunities&center=true&width=500&height=30">
